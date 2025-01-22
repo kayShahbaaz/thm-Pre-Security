@@ -18,7 +18,7 @@ The repository is structured day-by-day corresponding to the timeline of core mo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 THM-PRE-SECURITY/
