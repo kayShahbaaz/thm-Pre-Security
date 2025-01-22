@@ -4,7 +4,7 @@ This repository contains my personal documentation, notes, and practical lab wri
 
 ---
 
-## 🗺️ Pathway Roadmap & Modules
+## Pathway Roadmap & Modules
 
 The repository is structured day-by-day corresponding to the timeline of core modules completed:
 
@@ -18,7 +18,7 @@ The repository is structured day-by-day corresponding to the timeline of core mo
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 THM-PRE-SECURITY/
