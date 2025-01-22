@@ -1,0 +1,4 @@
+- Updates are typically released on the 2nd Tuesday of each month. This day is called **Patch Tuesday**.
+- That doesn't necessarily mean that a critical update/patch has to wait for the next Patch Tuesday to be released.
+- If the update is urgent, then Microsoft will push the update via the Windows Update service to the Windows devices.
+- the **Volume Shadow Copy Service** (VSS) coordinates the required actions to create a consistent shadow copy (also known as a snapshot or a point-in-time copy) of the data that is to be backed up.

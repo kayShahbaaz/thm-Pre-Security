@@ -1,0 +1,4 @@
+- the system  environment variable for the Windows directory is %windir%.
+- he local user with such privileges, Microsoft introduced **User Account Control** (UAC).
+- This concept was first introduced with the short-lived [Windows Vista](https://en.wikipedia.org/wiki/Windows_Vista)
+- How does UAC work? When a user with an account type of administrator logs into a system, the current session doesn't run with elevated permissions. When an operation requiring higher-level privileges needs to execute, the user will be prompted to confirm if they permit the operation to run.
